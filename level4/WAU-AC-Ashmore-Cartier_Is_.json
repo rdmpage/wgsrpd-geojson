@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "name": "WAU-AC-Ashmore-Cartier_Is_",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "LEVEL4_COD": "WAU-AC",
+                "LEVEL4_NAM": "Ashmore-Cartier Is."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            122.964447,
+                            -12.2688904
+                        ],
+                        [
+                            122.9669495,
+                            -12.2797203
+                        ],
+                        [
+                            122.9744492,
+                            -12.2736101
+                        ],
+                        [
+                            122.964447,
+                            -12.2688904
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

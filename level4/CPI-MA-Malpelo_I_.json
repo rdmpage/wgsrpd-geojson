@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "name": "CPI-MA-Malpelo_I_",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "LEVEL4_COD": "CPI-MA",
+                "LEVEL4_NAM": "Malpelo I."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.6069743,
+                            3.9785821
+                        ],
+                        [
+                            -81.6050433,
+                            3.9785821
+                        ],
+                        [
+                            -81.595388,
+                            3.9959616
+                        ],
+                        [
+                            -81.6108364,
+                            4.0017548
+                        ],
+                        [
+                            -81.6069743,
+                            3.9785821
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

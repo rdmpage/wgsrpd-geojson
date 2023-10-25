@@ -18,4 +18,8 @@ The GeoJSON files have been generated with one file per region, and files for ea
 
 The file `paths.json` has an associative array listing each the files in each level by their code, making it easier to find a file from its level-specific code.
 
+## Viewing GeoJSON
+
+The websites [geojson.io](http://geojson.io/) and [GeoJSONLint](https://geojsonlint.com) are good places to view GeoJSON files.  GitHub also has built-in GeoJSON viewing for smaller files, which you can see [here](level1/2-AFRICA.json), for example.
+
 

@@ -19,8 +19,7 @@ $force = false;
 
 $paths = array();
 
-
-for ($level = 1; $level <= 1; $level++)
+for ($level = 1; $level <= 4; $level++)
 {
 
 	$paths[$level] = array();

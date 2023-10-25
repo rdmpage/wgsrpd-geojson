@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "name": "TOK-SW-Swains_I_",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "LEVEL4_COD": "TOK-SW",
+                "LEVEL4_NAM": "Swains I."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -171.0905609,
+                            -11.0577803
+                        ],
+                        [
+                            -171.0777893,
+                            -11.06639
+                        ],
+                        [
+                            -171.0647278,
+                            -11.05583
+                        ],
+                        [
+                            -171.0786133,
+                            -11.0480604
+                        ],
+                        [
+                            -171.0905609,
+                            -11.0577803
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

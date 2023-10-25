@@ -1,0 +1,44 @@
+{
+    "type": "FeatureCollection",
+    "name": "CPI-CL-Clipperton_I_",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "LEVEL4_COD": "CPI-CL",
+                "LEVEL4_NAM": "Clipperton I."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -109.2044373,
+                            10.2880602
+                        ],
+                        [
+                            -109.2069473,
+                            10.3044395
+                        ],
+                        [
+                            -109.2277832,
+                            10.3130598
+                        ],
+                        [
+                            -109.2369537,
+                            10.3027802
+                        ],
+                        [
+                            -109.2180634,
+                            10.2811098
+                        ],
+                        [
+                            -109.2044373,
+                            10.2880602
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

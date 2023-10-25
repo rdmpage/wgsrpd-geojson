@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "name": "LEE-AV-Aves_I_",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "LEVEL4_COD": "LEE-AV",
+                "LEVEL4_NAM": "Aves I."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -63.6426707,
+                            15.7046623
+                        ],
+                        [
+                            -63.6337407,
+                            15.6927557
+                        ],
+                        [
+                            -63.6367174,
+                            15.7106156
+                        ],
+                        [
+                            -63.6426707,
+                            15.7046623
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

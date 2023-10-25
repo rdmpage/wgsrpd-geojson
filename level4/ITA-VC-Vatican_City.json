@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "name": "ITA-VC-Vatican_City",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "LEVEL4_COD": "ITA-VC",
+                "LEVEL4_NAM": "Vatican City"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            12.5149486,
+                            41.8840553
+                        ],
+                        [
+                            12.515629,
+                            41.8786117
+                        ],
+                        [
+                            12.5224334,
+                            41.8758899
+                        ],
+                        [
+                            12.5237943,
+                            41.8833748
+                        ],
+                        [
+                            12.5149486,
+                            41.8840553
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "type": "FeatureCollection",
+    "name": "HAI-NI-Navassa_I_",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "LEVEL4_COD": "HAI-NI",
+                "LEVEL4_NAM": "Navassa I."
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.0313873,
+                            18.4141693
+                        ],
+                        [
+                            -75.01194,
+                            18.3952808
+                        ],
+                        [
+                            -75.0030518,
+                            18.4108391
+                        ],
+                        [
+                            -75.0313873,
+                            18.4141693
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
