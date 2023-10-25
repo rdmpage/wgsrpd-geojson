@@ -8,6 +8,8 @@ The [RBGKew/powop](https://github.com/RBGKew/powop) repository for [Plants of th
 
 ## GeoJSON conversion
 
+The key steps for converting WKT to GeoJSON are described in [this answer](https://gis.stackexchange.com/a/441877) to a question on [GIS StackExchange](https://gis.stackexchange.com/questions/441875/convert-a-wkt-string-within-a-text-file-to-geojson-using-ogr2ogr-or-gdal-command).
+
 To generate GeoJSON files to display on the web we need to convert between the [Spatial reference system](https://en.wikipedia.org/wiki/Spatial_reference_system) used in the MySQL database and that used by web viewers. The MySQL data uses  [EPSG:3857](https://epsg.io/3857), the GeoJSON files use [EPSG:4326](https://epsg.io/4326). Hence when converting WKT to GeoJSON using `ogr2ogr` we need the options `-s_srs EPSG:3857 -t_srs EPSG:4326`.
 
 We also need the flag `-lco RFC7946=YES` to ensure they follow the [“right-had rule”](https://gis.stackexchange.com/questions/259944/polygons-and-multipolygons-should-follow-the-right-hand-rule) in [The GeoJSON Format RFC7946](http://doi.org/10.17487/RFC7946). This avoids errors when using tools such as [GeoJSONLint](https://geojsonlint.com).
