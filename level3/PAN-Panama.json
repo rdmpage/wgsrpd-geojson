@@ -6,7 +6,7 @@
             "type": "Feature",
             "properties": {
                 "LEVEL3_COD": "PAN",
-                "LEVEL3_NAM": "Panama"
+                "LEVEL3_NAM": "Panam\u00e1"
             },
             "geometry": {
                 "type": "MultiPolygon",

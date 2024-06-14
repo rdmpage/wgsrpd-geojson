@@ -1,12 +1,12 @@
 {
     "type": "FeatureCollection",
-    "name": "ZAI-Zaire",
+    "name": "ZAI-OO-Za",
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "LEVEL3_COD": "ZAI",
-                "LEVEL3_NAM": "Za\u00efre"
+                "LEVEL4_COD": "ZAI-OO",
+                "LEVEL4_NAM": "Za\u00efre"
             },
             "geometry": {
                 "type": "MultiPolygon",
